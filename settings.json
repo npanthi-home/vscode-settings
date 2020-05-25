@@ -1,0 +1,35 @@
+{
+  "files.eol": "\n",
+  "editor.renderWhitespace": "all",
+  "editor.renderControlCharacters": true,
+  "html.format.indentInnerHtml": true,
+  "html.format.indentHandlebars": true,
+  "editor.foldingStrategy": "indentation",
+  "editor.detectIndentation": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+
+  },
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "editor.fontLigatures": true,
+"editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+  "editor.fontWeight": "400",
+  "editor.fontSize": 11,
+  "workbench.colorTheme": "Eclipse Color Theme",
+  "[jsonc]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "workbench.iconTheme": "vscode-great-icons",
+  "editor.minimap.enabled": false,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "terminal.integrated.fontSize": 11,
+  "debug.console.fontSize": 11,
+"team.showWelcomeMessage": false,
+"[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+},
+"window.zoomLevel": 1
+}
